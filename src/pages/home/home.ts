@@ -27,12 +27,11 @@ value2= 0;
   onClick3(){
     
     
-    if(this.value)
-    {
+   
       this.value = 0;
-    }else if(this.value2){
+   
       this.value2 = 0;
-    }
+  
   }
 
   onClick4(){
